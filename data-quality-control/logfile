@@ -1,0 +1,2 @@
+WARNING:py_data_rules.rule_factory:missing columns in table ss: {'source_mat_id_orig'}
+WARNING:py_data_rules.rule_factory:excess columns in table ss: {'source_mat_id.1'}

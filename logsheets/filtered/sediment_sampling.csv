@@ -1,0 +1,151 @@
+source_mat_id,samp_description,tax_id,scientific_name,investigation_type,env_material,collection_date,sampling_event,sampl_person,sampl_person_orcid,tidal_stage,comm_samp,depth,replicate,size_frac_low,size_frac_up,samp_collect_device,samp_mat_process,samp_mat_process_dev,samp_store_date,samp_store_loc,samp_store_temp,store_person,store_person_orcid,other_person,other_person_orcid,long_store,samp_size_mass,ship_date,arr_date_hq,store_temp_hq,ship_date_seq,arr_date_seq,failure,failure_comment,ENA_accession_number_sample,source_mat_id.1
+EMOBON_221026_UMF_SoSOP3_Meio_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,meio,13,1,NA,0.32,Van Veen Grab,SoSOP3,,,/,-20,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_221026_meio_1
+EMOBON_221026_UMF_SoSOP3_Meio_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,meio,13,2,NA,0.32,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_221026_meio_2
+EMOBON_221026_UMF_SoSOP3_Meio_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,meio,13,3,NA,0.32,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_meio_3
+EMOBON_221026_UMF_SoSOP3_Meio_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,meio,13,4,NA,0.32,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_meio_4
+EMOBON_221026_UMF_SoSOP3_Micro_1,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,micro,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_221026_micro_1
+EMOBON_221026_UMF_SoSOP3_Micro_2,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,micro,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_221026_micro_2
+EMOBON_221026_UMF_SoSOP3_Micro_3,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,micro,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_micro_3
+EMOBON_221026_UMF_SoSOP3_Micro_4,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,micro,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_micro_4
+EMOBON_221026_UMF_SoSOP3_Micro_blank1,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,32644,unidentified,metagenome,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,micro,13,blank,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_micro_blank
+EMOBON_221026_UMF_SoSOP3_Macro_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,macro,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_221026_macro_1
+EMOBON_221026_UMF_SoSOP3_Macro_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,macro,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_221026_macro_2
+EMOBON_221026_UMF_SoSOP3_Macro_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,macro,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_macro_3
+EMOBON_221026_UMF_SoSOP3_Macro_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2022-10-26 00:00:00,UMF_So_221026,Annie Marie Cox,NA,,macro,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221026_macro_4
+EMOBON_221201_UMF_SoSOP3_Micro_1,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-12-01 00:00:00,UMF_So_221201,Annie Marie Cox,NA,,micro,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_221201_micro_1
+EMOBON_221201_UMF_SoSOP3_Micro_2,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-12-01 00:00:00,UMF_So_221201,Annie Marie Cox,NA,,micro,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_221201_micro_2
+EMOBON_221201_UMF_SoSOP3_Micro_3,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-12-01 00:00:00,UMF_So_221201,Annie Marie Cox,NA,,micro,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221201_micro_3
+EMOBON_221201_UMF_SoSOP3_Micro_4,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2022-12-01 00:00:00,UMF_So_221201,Annie Marie Cox,NA,,micro,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221201_micro_4
+EMOBON_221201_UMF_SoSOP3_Micro_blank1,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,32644,unidentified,metagenome,sediment [ENVO:00002007],2022-12-01 00:00:00,UMF_So_221201,Annie Marie Cox,NA,,micro,13,blank,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_221201_micro_blank
+EMOBON_230228_UMF_SoSOP3_Micro_1,EMOBON metagenome sediment sample from station UMF collected on 2023-02-28 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-02-28 00:00:00,UMF_So_230228,Annie Marie Cox,NA,,micro,13,1,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_230228_micro_1
+EMOBON_230228_UMF_SoSOP3_Micro_2,EMOBON metagenome sediment sample from station UMF collected on 2023-02-28 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-02-28 00:00:00,UMF_So_230228,Annie Marie Cox,NA,,micro,13,2,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_230228_micro_2
+EMOBON_230228_UMF_SoSOP3_Micro_3,EMOBON metagenome sediment sample from station UMF collected on 2023-02-28 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-02-28 00:00:00,UMF_So_230228,Annie Marie Cox,NA,,micro,13,3,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230228_micro_3
+EMOBON_230228_UMF_SoSOP3_Micro_4,EMOBON metagenome sediment sample from station UMF collected on 2023-02-28 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-02-28 00:00:00,UMF_So_230228,Annie Marie Cox,NA,,micro,13,4,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230228_micro_4
+EMOBON_230228_UMF_SoSOP3_Micro_blank1,EMOBON metagenome sediment sample from station UMF collected on 2023-02-28 community collected micro,32644,unidentified,metagenome,sediment [ENVO:00002007],2023-02-28 00:00:00,UMF_So_230228,Annie Marie Cox,NA,,micro,13,blank,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230228_micro_blank
+EMOBON_230502_UMF_SoSOP3_Meio_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,meio,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_230502_meio_1
+EMOBON_230502_UMF_SoSOP3_Meio_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,meio,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_230502_meio_2
+EMOBON_230502_UMF_SoSOP3_Meio_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,meio,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_meio_3
+EMOBON_230502_UMF_SoSOP3_Meio_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected meio,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,meio,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-20,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_meio_4
+EMOBON_230502_UMF_SoSOP3_Micro_1,EMOBON metagenome sediment sample from station UMF collected on 2023-05-02 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,micro,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_micro_1
+EMOBON_230502_UMF_SoSOP3_Micro_2,EMOBON metagenome sediment sample from station UMF collected on 2023-05-02 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,micro,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_230502_micro_2
+EMOBON_230502_UMF_SoSOP3_Micro_3,EMOBON metagenome sediment sample from station UMF collected on 2023-05-02 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,micro,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,2023-06-12 00:00:00,2023-06-14 00:00:00,-70,,,,,,EMOBON_UMF_So_230502_micro_3
+EMOBON_230502_UMF_SoSOP3_Micro_4,EMOBON metagenome sediment sample from station UMF collected on 2023-05-02 community collected micro,412755,marine sediment metagenome,metagenome,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,micro,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_micro_4
+EMOBON_230502_UMF_SoSOP3_Micro_blank1,EMOBON metagenome sediment sample from station UMF collected on 2023-05-02 community collected micro,32644,unidentified,metagenome,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,micro,13,blank,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_micro_blank
+EMOBON_230502_UMF_SoSOP3_Macro_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,macro,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_230502_macro_1
+EMOBON_230502_UMF_SoSOP3_Macro_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,macro,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,N,NA,to_arrive_Sep_2023,,,,,,,,EMOBON_UMF_So_230502_macro_2
+EMOBON_230502_UMF_SoSOP3_Macro_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,macro,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_macro_3
+EMOBON_230502_UMF_SoSOP3_Macro_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected macro,33208,Metazoa ,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230502,Annie Marie Cox,NA,,macro,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-5,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230502_macro_4
+EMOBON_230619_UMF_SoSOP3_Micro_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230619,Annie Marie Cox,NA,,micro,13,1,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230619_micro_1
+EMOBON_230619_UMF_SoSOP3_Micro_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230619,Annie Marie Cox,NA,,micro,13,2,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230619_micro_2
+EMOBON_230619_UMF_SoSOP3_Micro_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230619,Annie Marie Cox,NA,,micro,13,3,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230619_micro_3
+EMOBON_230619_UMF_SoSOP3_Micro_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230619,Annie Marie Cox,NA,,micro,13,4,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230619_micro_4
+EMOBON_230619_UMF_SoSOP3_Micro_blank1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,32644,unidentified,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230619,Annie Marie Cox,NA,,micro,13,blank,NA,NA,Van Veen Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230619_micro_blank
+EMOBON_230803_UMF_SoSOP3_Micro_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230803,Annie Marie Cox,NA,,micro,13,1,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230803_micro_1
+EMOBON_230803_UMF_SoSOP3_Micro_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230803,Annie Marie Cox,NA,,micro,13,2,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,N,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230803_micro_2
+EMOBON_230803_UMF_SoSOP3_Micro_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230803,Annie Marie Cox,NA,,micro,13,3,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230803_micro_3
+EMOBON_230803_UMF_SoSOP3_Micro_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,33208,marine sediment metagenome,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230803,Annie Marie Cox,NA,,micro,13,4,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230803_micro_4
+EMOBON_230803_UMF_SoSOP3_Micro_blank1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2023-05-02 community collected micro,32644,unidentified,mimarks-specimen,sediment [ENVO:00002007],2023-05-02 00:00:00,UMF_So_230803,Annie Marie Cox,NA,,micro,13,blank,NA,NA,Smith McIntyre Grab,SoSOP3,,,,-80,Annie Marie Cox,NA,NA,NA,Y,NA,NA,NA,NA,NA,NA,NA,NA,NA,EMOBON_UMF_So_230803_micro_blank
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON___
