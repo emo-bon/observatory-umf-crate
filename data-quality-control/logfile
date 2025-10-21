@@ -1,0 +1,9 @@
+ERROR:py_data_rules.rule_engine:rule evaluation failed for ship_date_after_samp_store_date with exception ValueError: time data 'to_arrive_' does not match format '%Y-%m-%d'
+WARNING:py_data_rules.rule_factory:excess columns in table sm: {'source_mat_id_orig'}
+WARNING:py_data_rules.rule_factory:missing columns in table so: {'data_owner_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table so: {'data_contact_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table ss: {'seq_batch'}
+WARNING:py_data_rules.rule_factory:excess columns in table wm: {'ph_method', 'source_mat_id_orig', 'ph'}
+WARNING:py_data_rules.rule_factory:missing columns in table wo: {'data_owner_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table wo: {'data_contact_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table ws: {'seq_batch'}
