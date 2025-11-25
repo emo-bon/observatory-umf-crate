@@ -1,13 +1,8 @@
-name: observatory-crate-workflow
-true:
-  schedule:
-  - cron: 0 0 1 */6 *
-  workflow_dispatch: null
 jobs:
   job:
     env:
       DATA_QUALITY_CONTROL_ASSIGNEE: isanti
-      DATA_QUALITY_CONTROL_THRESHOLD_DATE: 31/12/2022
+      DATA_QUALITY_CONTROL_THRESHOLD_DATE: '2022-12-31'
       GITHUB_REPOSITORY: ${{ github.repository }}
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       HARD_LOGSHEET_URL: .nan
@@ -50,3 +45,8 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./unicornpages
+name: observatory-crate-workflow
+'on':
+  schedule:
+  - cron: 0 0 1 */6 *
+  workflow_dispatch: null
