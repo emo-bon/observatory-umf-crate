@@ -1,0 +1,70 @@
+source_mat_id_orig,samp_description,tax_id,scientific_name,investigation_type,env_material,collection_date,sampling_event,sampl_person,sampl_person_orcid,tidal_stage,comm_samp,noteworthy_env_cond,replicate,size_frac_low,size_frac_up,depth,samp_collect_device,samp_mat_process,samp_mat_process_dev,samp_store_date,samp_store_loc,samp_store_temp,store_person,store_person_orcid,other_person,other_person_orcid,long_store,samp_size_mass,ship_date,arr_date_hq,store_temp_hq,ship_date_seq,arr_date_seq,seq_batch,failure,failure_comment,ENA_accession_number_sample,source_mat_id
+EMOBON_UMF_So_221026_meio_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,meio,,1,32,,13,Van Veen Grab,SoSOP3,,2022-10-26,,-20,Annie Marie Cox,,,,false,,2023-09-06,2023-09-13,-70,2024-04-17,2024-04-18,batch_5,false,,,EMOBON_UMF_So_1
+EMOBON_UMF_So_221026_meio_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,meio,,2,32,,13,Van Veen Grab,SoSOP3,,2022-10-26,,-20,Annie Marie Cox,,,,false,,,,,,,,,,,EMOBON_UMF_So_2
+EMOBON_UMF_So_221026_meio_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,meio,,3,32,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A13B passage, -80 freezer",-20,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_3
+EMOBON_UMF_So_221026_meio_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected meio,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,meio,,4,32,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A13B passage, -80 freezer",-20,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_4
+EMOBON_UMF_So_221026_micro_1,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,micro,,1,,,13,Van Veen Grab,SoSOP3,,2022-10-26,,-80,Annie Marie Cox,,,,false,,2023-06-12,2023-06-14,-70,2024-04-17,2024-04-18,batch_4,false,,,EMOBON_UMF_So_5
+EMOBON_UMF_So_221026_micro_2,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,micro,,2,,,13,Van Veen Grab,SoSOP3,,2022-10-26,,-80,Annie Marie Cox,,,,false,,2023-06-12,2023-06-14,-70,2024-04-17,2024-04-18,batch_4,false,,,EMOBON_UMF_So_6
+EMOBON_UMF_So_221026_micro_3,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,micro,,3,,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A13B passage, -80 freezer, box 1",-80,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_7
+EMOBON_UMF_So_221026_micro_4,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,micro,,4,,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A13B passage, -80 freezer, box 1",-80,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_8
+EMOBON_UMF_So_221026_micro_blank,EMOBON metagenome sediment sample from station UMF collected on 2022-10-26 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=256318,metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,micro,,blank_1,,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A13B passage, -80 freezer, box 1",-80,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_9
+EMOBON_UMF_So_221026_macro_1,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,macro,,1,1000,,13,Van Veen Grab,SoSOP3,,2022-10-26,,4,Annie Marie Cox,,,,false,,2023-09-06,2023-09-13,-70,2024-04-17,2024-04-18,batch_4,false,,,EMOBON_UMF_So_10
+EMOBON_UMF_So_221026_macro_2,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,macro,,2,1000,,13,Van Veen Grab,SoSOP3,,2022-10-26,,4,Annie Marie Cox,,,,false,,2023-09-06,2023-09-13,-70,2024-04-17,2024-04-18,batch_4,false,,,EMOBON_UMF_So_11
+EMOBON_UMF_So_221026_macro_3,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,macro,,3,1000,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A23, +4 room",4,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_12
+EMOBON_UMF_So_221026_macro_4,EMOBON mimarks-specimen sediment sample from station UMF collected on 2022-10-26 community collected macro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=33208,Metazoa,mimarks-specimen,http://purl.obolibrary.org/obo/ENVO_00002007,2022-10-26,UMF_So_221026,Annie Marie Cox,,,macro,,4,1000,,13,Van Veen Grab,SoSOP3,,2022-10-26,"UMF, A23, +4 room",4,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_13
+EMOBON_UMF_So_221201_micro_1,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-12-01,UMF_So_221201,Annie Marie Cox,,,micro,,1,,,13,Van Veen Grab,SoSOP3,,2022-12-01,,-80,Annie Marie Cox,,,,false,,2023-06-12,2023-06-14,-70,2024-04-17,2024-04-18,batch_4,false,,,EMOBON_UMF_So_14
+EMOBON_UMF_So_221201_micro_2,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-12-01,UMF_So_221201,Annie Marie Cox,,,micro,,2,,,13,Van Veen Grab,SoSOP3,,2022-12-01,,-80,Annie Marie Cox,,,,false,,2023-06-12,2023-06-14,-70,2024-04-17,2024-04-18,batch_4,false,,,EMOBON_UMF_So_15
+EMOBON_UMF_So_221201_micro_3,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-12-01,UMF_So_221201,Annie Marie Cox,,,micro,,3,,,13,Van Veen Grab,SoSOP3,,2022-12-01,"UMF, A13B passage, -80 freezer, box 1",-80,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_16
+EMOBON_UMF_So_221201_micro_4,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=412755,marine sediment metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-12-01,UMF_So_221201,Annie Marie Cox,,,micro,,4,,,13,Van Veen Grab,SoSOP3,,2022-12-01,"UMF, A13B passage, -80 freezer, box 1",-80,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_17
+EMOBON_UMF_So_221201_micro_blank1,EMOBON metagenome sediment sample from station UMF collected on 2022-12-01 community collected micro,https://www.ncbi.nlm.nih.gov/taxonomy/browser/wwwtax.cgi?id=256318,metagenome,metagenome,http://purl.obolibrary.org/obo/ENVO_00002007,2022-12-01,UMF_So_221201,Annie Marie Cox,,,micro,,blank_1,,,13,Van Veen Grab,SoSOP3,,2022-12-01,"UMF, A13B passage, -80 freezer, box 1",-80,Annie Marie Cox,,,,true,,,,,,,,,,,EMOBON_UMF_So_18
+EMOBON_UMF_So_221026_macro_blank,,,,,,,,,,,macro,,,,,,,,,,"UMF, A23, +4 room",,,,,,,,,,,,,,,,,EMOBON_UMF_So_212
+EMOBON_UMF_So_230502_macro_blank,,,,,,,,,,,macro,,,,,,,,,,"UMF, A23, +4 room",,,,,,,,,,,,,,,,,EMOBON_UMF_So_213
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_214
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_215
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_216
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_217
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_218
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_219
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_220
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_221
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_222
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_223
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_224
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_225
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_226
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_227
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_228
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_229
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_230
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_231
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_232
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_233
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_234
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_235
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_236
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_237
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_238
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_239
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_240
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_241
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_242
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_243
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_244
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_245
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_246
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_247
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_248
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_249
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_250
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_251
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_252
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_253
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_254
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_255
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_256
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_257
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_258
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_259
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_260
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_261
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EMOBON_UMF_So_262

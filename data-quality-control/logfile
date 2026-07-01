@@ -1,0 +1,6 @@
+WARNING:py_data_rules.rule_factory:excess columns in table sm: {'source_mat_id_orig'}
+WARNING:py_data_rules.rule_factory:missing columns in table so: {'data_owner_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table so: {'data_contact_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table wm: {'source_mat_id_orig', 'ph', 'ph_method'}
+WARNING:py_data_rules.rule_factory:missing columns in table wo: {'data_owner_email'}
+WARNING:py_data_rules.rule_factory:excess columns in table wo: {'data_contact_email'}
